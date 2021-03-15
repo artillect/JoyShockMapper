@@ -3,7 +3,7 @@ The Sony PlayStation DualSense, DualShock 4, Nintendo Switch JoyCons (used in pa
 
 My goal with JoyShockMapper is to enable you to play PC games with DS, DS4, JoyCons, and Pro Controllers even better than you can on their respective consoles -- and demonstrate that more games should use these features in these ways.
 
-**Download JoyShockMapper to use right away [here](https://github.com/Electronicks/JoyShockMapper/releases)**!
+**Download JoyShockMapper to use right away [here](https://github.com/JibbSmart/JoyShockMapper/releases/latest)**!
 
 For developers, version 2.2 and older serve as a reference implementation for using [JoyShockLibrary](https://github.com/jibbsmart/JoyShockLibrary) to read inputs from DualShock 4, DualSense, JoyCons, and Pro Controller in your games. It now uses [SDL2](https://github.com/libsdl-org/SDL) for controller support, and JoyShockLibrary's developer has made code contributions to SDL2 to make sure it covers the same features.
 
